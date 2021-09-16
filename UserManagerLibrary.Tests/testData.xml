@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserDetails>
+	<User userId="Karim1" telephone="+38 000 123 23 41" email="Kama1@kama.com"/>
+	<User userId="Karim2" telephone="+38 000 123 23 42" email="Kama2@kama.com"/>
+	<User userId="Karim3" telephone="+38 000 123 23 43" email="Kama3@kama.com"/>
+	<User userId="Karim4" telephone="+38 000 123 23 44" email="Kama4@kama.com"/>
+	<User userId="Karim5" telephone="+38 000 123 23 45" email="Kama5@kama.com"/>
+	<User userId="Karim6" telephone="+38 000 123 23 46" email="Kama6@kama.com"/>
+	<User userId="Karim7" telephone="+38 000 123 23 47" email="Kama7@kama.com"/>	
+</UserDetails>
